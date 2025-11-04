@@ -66,7 +66,7 @@ export default function AiCaptionGenerator() {
       const formData = new FormData();
       formData.append("image", file);
     try {
-    const res = await axios.post('http://localhost:3000/api/post/',formData)
+    const res = await axios.post('https://ai-caption-generator-99cq.onrender.com/api/post/',formData)
     setCaption(res.data.post.caption);
     setLoading(false);
  } catch (error) {
