@@ -6,10 +6,7 @@ const cors=require('cors')
 const app=express()
 app.use(
   cors({
-     origin: [
-    'http://localhost:5173',                // local dev
-    'https://ai-caption-t2u1.onrender.com'  // production frontend
-  ],     
+    origin: "https://ai-caption-t2u1.onrender.com"     
   })
 );
 app.use(express.json())
