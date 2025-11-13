@@ -6,7 +6,7 @@ Built with the **MERN stack** and integrated with **ImageKit** for secure image 
 ---
 
 ## 🚀 Live Demo
-- 🌐 **Ai-Caption:** [[https://ai-caption-t2u1.onrender.com](https://ai-caption-t2u1.onrender.com)](#)
+- 🌐 **Ai-Caption:** [[https://ai-caption-t2u1.onrender.com](https://ai-caption-t2u1.onrender.com)]
 
 ---
 
