@@ -1,6 +1,6 @@
 # 🧠 AI Caption Generator (MERN + Gemini Flash 2.5 + ImageKit)
 
-An **AI-powered image captioning web app** that allows users to upload images and automatically generate creative and context-aware captions using **Gemini Flash 2.0**.  
+An **AI-powered image captioning web app** that allows users to upload images and automatically generate creative and context-aware captions using **Gemini Flash 2.5**.  
 Built with the **MERN stack** and integrated with **ImageKit** for secure image storage.
 
 ---
